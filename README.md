@@ -1,1 +1,1 @@
-# l-cypress
+npx cypress open
